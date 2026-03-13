@@ -1,0 +1,4 @@
+{"name":"mahim malek","email":"mahimmalek9@gmail.com","password":"$2b$12$VfQPBswq2LQYEeyu60oLs.17.Yzx118CjJODDD1KT2nY5G00UUL4u","phone":"","avatar":"M","createdAt":{"$$date":1773398783284},"_id":"T3gV7xI07SxQhP7J"}
+{"name":"Demo User","email":"demo@iaddress.com","password":"$2b$10$ubIUpqLWN4zojVx/8zLE0eCf6LCT3dG8glEB0pbTbC0R7D7YJ0wM.","phone":"+91 98765 43210","createdAt":{"$$date":1773399274140},"_id":"dOWufkVS1WfygVtZ"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"email","unique":true}}
